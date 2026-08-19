@@ -1,9 +1,8 @@
 # Devoir
-Lien vers le classroom : https://classroom.github.com/a/SMW1nZNq
 
 Objectif : 
 - Réviser ce qu'on a fait en classe
-- Maîtriser la scss et classname
+- Maîtriser classname
 - Copier le début de la page web du site medium
 
 Ce que tu as à faire :
