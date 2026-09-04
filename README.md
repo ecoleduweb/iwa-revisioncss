@@ -15,8 +15,12 @@ Lien vers la page : https://javascript.plainenglish.io/microsoft-is-ditching-rea
 
 Rappel des commandes git :
 
-```
+```sh
 git clone TON_URL_DE_TON_REPO
+#dans ton projet :
+npm install
+npm run dev
+# Pour ajouter du code en ligne
 git pull origin main
 git add .
 git commit -am "Ton message commit"
